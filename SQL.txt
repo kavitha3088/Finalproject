@@ -1,0 +1,7 @@
+create database product9844;
+use product9844;
+
+select * from product;
+insert into product values(1111,1000,'Battery');
+insert into product values(2222,10000,'mobile');
+insert into product values(3333,15000,'Fridge');
